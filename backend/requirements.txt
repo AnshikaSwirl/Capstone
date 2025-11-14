@@ -1,0 +1,11 @@
+# backend/requirements.txt
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+sqlalchemy==2.1.0
+pyodbc==4.0.35
+pandas==2.2.2
+python-dotenv==1.0.0
+tenacity==8.2.2
+openai==1.0.0
+langgraph==0.3.6
+werkzeug==2.3.7

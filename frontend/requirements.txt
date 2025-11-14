@@ -1,0 +1,4 @@
+# frontend/requirements.txt
+streamlit==1.26.0
+requests==2.31.0
+python-dotenv==1.0.0
